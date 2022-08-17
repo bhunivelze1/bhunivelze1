@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is I Gusti Bagus Ananda,  
+
+I am a software developer based in Indonesia
+
 <!--
 **bhunivelze1/bhunivelze1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
