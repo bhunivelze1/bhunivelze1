@@ -10,15 +10,25 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 ## Portfolio
 
+### Website
+
 [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://bhunivelze1.github.io)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/software.bhunivelze1/)  
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/software.bhunivelze1/) 
+
+[<img align="left" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/bhunivelze1) <br/>
+
+## Problem Solving
 
 [<img align="left" alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/bhunivelze)
 
 [<img align="left" alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/bhunivelze_/)
 
-[<img align="left" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/bhunivelze1) 
+[<img align="left" alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />](https://www.codewars.com/users/bhunivelze1) <br/>
+
+## Machine Learning
+
+[<img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/bhunivelze1)
 
 <br/><br/>
 
