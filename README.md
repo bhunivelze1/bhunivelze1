@@ -22,9 +22,9 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 [<img align="left" alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/bhunivelze)
 
-[<img align="left" alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/bhunivelze_/)
+[<img align="left" alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/bhunivelze_/) <br/>
 
-### Machine Learning
+### Artificial Intelligence
 
 [<img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/bhunivelze1)
 
