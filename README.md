@@ -12,7 +12,7 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 ### Website
 
-[<img align="left" alt="github" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />]([https://bhunivelze1.github.io](https://www.behance.net/bhunivelze1))
+[<img align="left" alt="github" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/bhunivelze1)
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/software.bhunivelze1/) 
 
