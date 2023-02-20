@@ -24,7 +24,7 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 [<img align="left" alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/bhunivelze_/) <br/>
 
-<br/><br/>
+<br/>
 
 ## Tech Used
 
@@ -86,7 +86,7 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> <br/>
 
-<br/><br/>
+<br/>
 
 ## Contacts
 
