@@ -24,10 +24,6 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 [<img align="left" alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/bhunivelze_/) <br/>
 
-### Artificial Intelligence
-
-[<img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/bhunivelze1)
-
 <br/><br/>
 
 ## Tech Used
@@ -90,20 +86,6 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> <br/>
 
-### Artificial Intelligence
-
-<img align="left" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-
-<img align="left" alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-<img align="left" alt="opencv" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-
-<img align="left" alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-
-<img align="left" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-
 <br/><br/>
 
 ## Contacts
@@ -111,8 +93,6 @@ I am mostly a web developer, but I am starting to branch out to other platforms 
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/i-gusti-bagus-ananda-tsaqif-hasani-1b981b177/)  
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bhunivelze1/)  
-
-[<img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />]()
 
 <br/><br/>
 
