@@ -6,6 +6,8 @@ My name is I Gusti Bagus Ananda. I am a software developer based in Indonesia.
 
 I am mostly a web developer, but I am starting to branch out to other platforms as well.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhunivelze1&show_icons=true&locale=en" alt="bhunivelze1" /></p>
+
 <br/>
 
 ## Portfolio
