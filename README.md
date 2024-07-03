@@ -4,9 +4,7 @@
 
 My name is I Gusti Bagus Ananda. I am a software developer based in Indonesia.
 
-I am a Web Developer/Mobile App Developer. Currently messing with data science & machine learning as well :)  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhunivelze1&show_icons=true&locale=en" alt="bhunivelze1" /></p>
+I am a Web/Mobile App Developer. Currently messing with data science & machine learning as well :)  
 
 <br/>
 
@@ -28,9 +26,17 @@ I am a Web Developer/Mobile App Developer. Currently messing with data science &
 
 <br/>
 
-## Learning Progress
+## Stats
+
+### Github
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhunivelze1&show_icons=true&locale=en" alt="bhunivelze1" /></p>
+
+### Roadmap.sh
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/656ffd255145316d25c331dc?variant=dark" alt="roadmap.sh"/></a>
+
+<br/>
 
 ## Contacts
 
