@@ -26,7 +26,7 @@ I am a Web/Mobile App Developer. Currently messing with data science & machine l
 
 <br/>
 
-## Stats
+## Statistics
 
 ### Github
 
