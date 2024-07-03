@@ -12,7 +12,7 @@ I am a Web Developer/Mobile App Developer. Currently messing with data science &
 
 ## Portfolio
 
-### Website
+### Projects
 
 [<img align="left" alt="github" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/bhunivelze1)
 
