@@ -40,7 +40,7 @@ I am a Web/Mobile App Developer. Currently messing with data science & machine l
 
 ## Contacts
 
-[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/i-gusti-bagus-ananda-tsaqif-hasani-1b981b177/)  
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/i-gusti-bagus-ananda/)  
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bhunivelze1/)  
 
